@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/RecordsFragment">
+
+    <fragment
+        android:id="@+id/RecordsFragment"
+        android:name="com.example.smartspendy.fragment.RecordsFragment"
+        android:label="Records">
+        <action
+            android:id="@+id/action_RecordsFragment_to_AddTransactionFragment"
+            app:destination="@id/AddTransactionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/AnalysisFragment"
+        android:name="com.example.smartspendy.fragment.AnalysisFragment"
+        android:label="Analysis" />
+
+    <fragment
+        android:id="@+id/BudgetFragment"
+        android:name="com.example.smartspendy.fragment.BudgetFragment"
+        android:label="Budgets" />
+
+    <fragment
+        android:id="@+id/AccountsFragment"
+        android:name="com.example.smartspendy.fragment.AccountsFragment"
+        android:label="Accounts" />
+
+    <fragment
+        android:id="@+id/CategoriesFragment"
+        android:name="com.example.smartspendy.fragment.CategoriesFragment"
+        android:label="Categories">
+        <action
+            android:id="@+id/action_CategoriesFragment_to_BackupFragment"
+            app:destination="@id/BackupFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/AddTransactionFragment"
+        android:name="com.example.smartspendy.fragment.AddTransactionFragment"
+        android:label="Add Transaction" />
+
+    <fragment
+        android:id="@+id/BackupFragment"
+        android:name="com.example.smartspendy.fragment.BackupFragment"
+        android:label="Backup and Restore" />
+</navigation>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home (41%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_home" />
+            <size android:width="150dp" android:height="150dp" />
+        </shape>
+    </item>
+    <!-- Shopping (32%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_shopping" />
+            <size android:width="150dp" android:height="150dp" />
+            <rotate android:fromDegrees="148" android:toDegrees="264" android:pivotX="50%" android:pivotY="50%" />
+        </shape>
+    </item>
+    <!-- Food/Drinks (15%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_food" />
+            <size android:width="150dp" android:height="150dp" />
+            <rotate android:fromDegrees="264" android:toDegrees="318" android:pivotX="50%" android:pivotY="50%" />
+        </shape>
+    </item>
+    <!-- Transport (6%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_transport" />
+            <size android:width="150dp" android:height="150dp" />
+            <rotate android:fromDegrees="318" android:toDegrees="340" android:pivotX="50%" android:pivotY="50%" />
+        </shape>
+    </item>
+    <!-- Entertainment (4%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_entertainment" />
+            <size android:width="150dp" android:height="150dp" />
+            <rotate android:fromDegrees="340" android:toDegrees="354" android:pivotX="50%" android:pivotY="50%" />
+        </shape>
+    </item>
+    <!-- Other (3%) -->
+    <item>
+        <shape android:shape="ring" android:innerRadius="40dp" android:thickness="30dp">
+            <solid android:color="@color/category_other" />
+            <size android:width="150dp" android:height="150dp" />
+            <rotate android:fromDegrees="354" android:toDegrees="0" android:pivotX="50%" android:pivotY="50%" />
+        </shape>
+    </item>
+</layer-list>

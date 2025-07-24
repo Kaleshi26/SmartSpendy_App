@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/RecordsFragment"
+        android:icon="@drawable/ic_records"
+        android:title="Records" />
+
+    <item
+        android:id="@+id/AnalysisFragment"
+        android:icon="@drawable/ic_analysis"
+        android:title="Analysis" />
+
+    <item
+        android:id="@+id/BudgetFragment"
+        android:icon="@drawable/ic_budget"
+        android:title="Budgets" />
+
+    <item
+        android:id="@+id/AccountsFragment"
+        android:icon="@drawable/ic_accounts"
+        android:title="Accounts" />
+
+    <item
+        android:id="@+id/CategoriesFragment"
+        android:icon="@drawable/ic_categories"
+        android:title="Categories" />
+</menu>

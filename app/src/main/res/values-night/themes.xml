@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartSpendy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- Adding the attributes from the provided theme, adjusted for dark mode -->
+        <item name="colorPrimary">@color/secondary</item>
+        <item name="colorPrimaryVariant">@color/secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item> <!-- Adjusted for dark mode -->
+        <item name="android:statusBarColor">@color/secondary</item>
+        <item name="android:windowBackground">#212121</item> <!-- Dark background -->
+
+        <!-- ✅ Add this to remove transparent nav bar in dark mode -->
+        <item name="android:navigationBarColor">#212121</item>
+    </style>
+
+    <style name="Theme.SmartSpendy" parent="Base.Theme.SmartSpendy" />
+</resources>

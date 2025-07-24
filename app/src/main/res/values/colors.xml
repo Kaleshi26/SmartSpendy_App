@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#F9FAFB</color> <!-- 60% Background -->
+    <color name="secondary">#1976D2</color> <!-- 30% Buttons, Cards -->
+    <color name="accent">#FFC107</color> <!-- 10% Highlights, Alerts -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="text_color">#212121</color>
+    <color name="green">#4CAF50</color> <!-- Material Design green -->
+    <color name="gray">#757575</color> <!-- Medium gray -->
+
+
+
+    <!-- Primary App Colors -->
+    <color name="primary_green">#2E7D32</color> <!-- Dark Green -->
+    <color name="primary_green_light">#66BB6A</color> <!-- Light Green -->
+    <color name="primary_green_dark">#1B5E20</color> <!-- Deeper Green -->
+
+    <!-- Neutral/Gray Shades -->
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#616161</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Error / Warning / Info -->
+    <color name="error_red">#D32F2F</color>
+    <color name="warning_orange">#FFA000</color>
+    <color name="info_blue">#1976D2</color>
+
+    <color name="light_transparent_blue">#80D1E8FF</color>
+    <color name="progress_tint">#2196F3</color> <!-- Blue for progress bar -->
+    <color name="fab_background">#1976D2</color> <!-- Blue for FAB background -->
+    <color name="fab_ripple">#BBDEFB</color> <!-- Light blue for FAB ripple -->
+
+    <color name="category_home">#D32F2F</color> <!-- Red -->
+    <color name="category_shopping">#1976D2</color> <!-- Blue -->
+    <color name="category_food">#388E3C</color> <!-- Green -->
+    <color name="category_transport">#F57C00</color> <!-- Orange -->
+    <color name="category_entertainment">#FFEB3B</color> <!-- Yellow -->
+    <color name="category_other">#B0BEC5</color> <!-- Gray -->
+    <color name="category_default">@android:color/transparent</color> <!-- Fallback -->
+
+
+    <color name="category_bills">#D32F2F</color> <!-- Red -->
+
+    <color name="light_blue">#ADD8E6</color>
+
+
+    <!-- Custom Primary Colors -->
+    <color name="my_primary">#2196F3</color> <!-- Blue -->
+    <color name="my_primary_variant">#1976D2</color> <!-- Darker Blue -->
+
+    <!-- Custom Secondary Colors -->
+    <color name="my_secondary">#03A9F4</color> <!-- Light Blue -->
+    <color name="my_secondary_variant">#0288D1</color> <!-- Slightly darker -->
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Dark Purple -->
+    <color name="colorAccent">#03DAC5</color> <!-- Teal -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color> <!-- Black -->
+    <color name="textSecondary">#757575</color> <!-- Grey -->
+
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color> <!-- White -->
+    <color name="backgroundSecondary">#F5F5F5</color> <!-- Light Grey -->
+
+    <!-- Button and Action Colors -->
+    <color name="buttonBackground">#6200EE</color> <!-- Purple -->
+    <color name="buttonText">#FFFFFF</color> <!-- White -->
+
+    <!-- Budget Warning Colors -->
+    <color name="budgetWarningNormal">#000000</color> <!-- Black -->
+    <color name="budgetWarningWarning">#FF5722</color> <!-- Deep Orange -->
+    <color name="budgetWarningExceeded">#D32F2F</color> <!-- Red -->
+
+    <!-- FAB and Floating Button -->
+    <color name="fabBackground">#6200EE</color> <!-- Purple -->
+    <color name="fabIcon">#FFFFFF</color> <!-- White -->
+
+    <!-- ProgressBar Colors -->
+    <color name="progressBarForeground">#03DAC5</color> <!-- Teal -->
+    <color name="progressBarBackground">#E0E0E0</color> <!-- Light Grey -->
+
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_600">#1E88E5</color>
+
+
+</resources>
