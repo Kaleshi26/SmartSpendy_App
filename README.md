@@ -47,6 +47,8 @@ It helps users track income, expenses, savings, and budgets — all in one place
 4. **Get Alerts** → Notifications when budget is close to limit.  
 5. **Backup Data** → Export & restore your financial records anytime.
 
+👨‍💻 Author
+M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2)
 
 ## 🚀 Installation
 1. Clone the repository:
@@ -55,5 +57,4 @@ git clone https://github.com/your-username/SmartSpendy.git
 Open in Android Studio.
 Sync Gradle & run on an emulator or Android device.
 
-👨‍💻 Author
-M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2)
+
