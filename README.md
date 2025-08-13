@@ -1,5 +1,9 @@
 # 💰 SmartSpendy – Personal Finance Tracker
 
+![Kotlin](https://img.shields.io/badge/Kotlin-Android_Studio-orange?style=for-the-badge&logo=kotlin)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 > **SmartSpendy** is a simple, intuitive, and efficient personal finance tracking app built with **Kotlin** in **Android Studio**.  
 It helps users track income, expenses, savings, and budgets — all in one place.
 
