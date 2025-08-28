@@ -71,10 +71,18 @@ M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2
 git clone https://github.com/your-username/SmartSpendy.git
 Open in Android Studio.
 Sync Gradle & run on an emulator or Android device.
+```
 
+## 📸 Screenshots
 
-
-
-
-
-
+<p align="center">
+  <img src="screenshot/recordss.png" alt="records" width="250" />
+  <img src="screenshot/add trans.png" alt="add trans" width="250" />
+  <img src="screenshot/accounts.png" alt="accounts" width="250" />
+</p>
+<p align="center">
+  <img src="screenshot/analysis.png" alt="analysis" width="250" />
+  <img src="screenshot/budget.png" alt="budget" width="250" />
+  <img src="screenshot/categories.png" alt="categories" width="250" />
+  <img src="screenshot/backup .png" alt="backup " width="250" />
+</p>
