@@ -76,7 +76,7 @@ Sync Gradle & run on an emulator or Android device.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot/recordss.png" alt="records" width="250" />
+  <img src="screenshot/records.png" alt="records" width="250" />
   <img src="screenshot/add trans.png" alt="add trans" width="250" />
   <img src="screenshot/accounts.png" alt="accounts" width="250" />
 </p>
