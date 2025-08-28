@@ -62,7 +62,7 @@ M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2
 
 ## 📥 Download the APK (Sideload)
 - Latest APK:
-  - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases
+  - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/app-release.apk
 - Install on Android:
   - Download the APK on your phone.
   - Tap to install → allow “Install unknown apps” when prompted → Install.
