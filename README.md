@@ -13,11 +13,6 @@ It helps users track income, expenses, savings, and budgets — all in one place
 
 
 
-
-
-
-
-
 ## ✨ Features
 
 ### 📌 Core Features
@@ -65,11 +60,45 @@ It helps users track income, expenses, savings, and budgets — all in one place
 👨‍💻 Author
 M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2)
 
+## 📥 Download the APK (Sideload)
+- Latest APK:
+  - Direct link: https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk
+  - All releases: https://github.com/your-username/SmartSpendy/releases
+- Install on Android:
+  - Download the APK on your phone.
+  - Tap to install → allow “Install unknown apps” when prompted → Install.
+  - You may see a Play Protect warning since it’s not from the Play Store.
+
+> Tip: Name your uploaded asset SmartSpendy.apk (or update the link above). Create a Release in GitHub and upload the APK there for a stable download URL.
+
 ## 🚀 Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/SmartSpendy.git
 Open in Android Studio.
 Sync Gradle & run on an emulator or Android device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
