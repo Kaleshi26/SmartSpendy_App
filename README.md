@@ -7,10 +7,14 @@
 > **SmartSpendy** is a simple, intuitive, and efficient personal finance tracking app built with **Kotlin** in **Android Studio**.  
 It helps users track income, expenses, savings, and budgets — all in one place.
 
-
-
-<p align="center"> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Releases" src="https://img.shields.io/github/v/release/Kaleshi26/SmartSpendy?include_prereleases&style=for-the-badge" /> </a> </p>
-
+## 📥 Download the APK (Sideload)
+- Latest APK:
+  <p align="center"> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> </p>
+  - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/app-release.apk
+- Install on Android:
+  - Download the APK on your phone.
+  - Tap to install → allow “Install unknown apps” when prompted → Install.
+  - You may see a Play Protect warning since it’s not from the Play Store.
 
 
 ## ✨ Features
@@ -60,15 +64,6 @@ It helps users track income, expenses, savings, and budgets — all in one place
 👨‍💻 Author
 M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2)
 
-## 📥 Download the APK (Sideload)
-- Latest APK:
-  - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/app-release.apk
-- Install on Android:
-  - Download the APK on your phone.
-  - Tap to install → allow “Install unknown apps” when prompted → Install.
-  - You may see a Play Protect warning since it’s not from the Play Store.
-
-> Tip: Name your uploaded asset SmartSpendy.apk (or update the link above). Create a Release in GitHub and upload the APK there for a stable download URL.
 
 ## 🚀 Installation
 1. Clone the repository:
@@ -76,24 +71,6 @@ M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2
 git clone https://github.com/your-username/SmartSpendy.git
 Open in Android Studio.
 Sync Gradle & run on an emulator or Android device.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
