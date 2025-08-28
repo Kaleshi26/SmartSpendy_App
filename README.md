@@ -9,7 +9,7 @@ It helps users track income, expenses, savings, and budgets — all in one place
 
 
 
-<p align="center"> <a href="https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> <a href="https://github.com/your-username/SmartSpendy/releases"> <img alt="Releases" src="https://img.shields.io/github/v/release/your-username/SmartSpendy?include_prereleases&style=for-the-badge" /> </a> <a href="https://github.com/your-username/SmartSpendy/releases"> <img alt="Downloads" src="https://img.shields.io/github/downloads/your-username/SmartSpendy/total?style=for-the-badge" /> </a> </p><p align="center"> <a href="https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk"> <img src="https://quickchart.io/qr?text=https%3A%2F%2Fgithub.com%2Fyour-username%2FSmartSpendy%2Freleases%2Flatest%2Fdownload%2FSmartSpendy.apk&size=200" alt="Download APK QR" /> </a> <br /> <sub>Scan to download the latest APK</sub> </p>
+<p align="center"> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/SmartSpendy.apk"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Releases" src="https://img.shields.io/github/v/release/your-username/SmartSpendy?include_prereleases&style=for-the-badge" /> </a> <a href="https://github.com/your-username/SmartSpendy/releases"> <img alt="Downloads" src="https://img.shields.io/github/downloads/Kaleshi26/SmartSpendy/total?style=for-the-badge" /> </a> </p><p align="center"> <a href="[https://github.com/Kaleshi26/SmartSpendy/releases/latest/download/SmartSpendy.apk](https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases)"> <img src="https://quickchart.io/qr?text=https%3A%2F%2Fgithub.com%2FKaleshi26%2FSmartSpendy%2Freleases%2Flatest%2Fdownload%2FSmartSpendy.apk&size=200" alt="Download APK QR" /> </a> <br /> <sub>Scan to download the latest APK</sub> </p>
 
 
 
@@ -62,8 +62,7 @@ M.K.E Dharmarathne – Mobile Application Development Lab Project (SLIIT, Year 2
 
 ## 📥 Download the APK (Sideload)
 - Latest APK:
-  - Direct link: https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk
-  - All releases: https://github.com/your-username/SmartSpendy/releases
+  - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/SmartSpendy.apk
 - Install on Android:
   - Download the APK on your phone.
   - Tap to install → allow “Install unknown apps” when prompted → Install.
