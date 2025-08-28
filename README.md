@@ -7,6 +7,17 @@
 > **SmartSpendy** is a simple, intuitive, and efficient personal finance tracking app built with **Kotlin** in **Android Studio**.  
 It helps users track income, expenses, savings, and budgets — all in one place.
 
+
+
+<p align="center"> <a href="https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> <a href="https://github.com/your-username/SmartSpendy/releases"> <img alt="Releases" src="https://img.shields.io/github/v/release/your-username/SmartSpendy?include_prereleases&style=for-the-badge" /> </a> <a href="https://github.com/your-username/SmartSpendy/releases"> <img alt="Downloads" src="https://img.shields.io/github/downloads/your-username/SmartSpendy/total?style=for-the-badge" /> </a> </p><p align="center"> <a href="https://github.com/your-username/SmartSpendy/releases/latest/download/SmartSpendy.apk"> <img src="https://quickchart.io/qr?text=https%3A%2F%2Fgithub.com%2Fyour-username%2FSmartSpendy%2Freleases%2Flatest%2Fdownload%2FSmartSpendy.apk&size=200" alt="Download APK QR" /> </a> <br /> <sub>Scan to download the latest APK</sub> </p>
+
+
+
+
+
+
+
+
 ## ✨ Features
 
 ### 📌 Core Features
