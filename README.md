@@ -9,7 +9,7 @@ It helps users track income, expenses, savings, and budgets — all in one place
 
 ## 📥 Download the APK (Sideload)
 - Latest APK:
-  <p align="center"> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> </p>
+  <p align="left"> <a href="https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases"> <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" /> </a> </p>
   - Direct link: https://github.com/Kaleshi26/SmartSpendy_App/tree/master/releases/app-release.apk
 - Install on Android:
   - Download the APK on your phone.
